@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\H2GO.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\H2GO.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\H2GOEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\H2GO">
+      <UniqueIdentifier>{C71ECB37-8774-3A5C-83AB-F3C9D3FDCCD1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\H2GO\H2GO.Build.cs">
+      <Filter>Source\H2GO</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\H2GO\H2GO.cpp">
+      <Filter>Source\H2GO</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\H2GO.h">
+      <Filter>Source\H2GO</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\H2GO\H2GOCharacter.cpp">
+      <Filter>Source\H2GO</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\H2GOCharacter.h">
+      <Filter>Source\H2GO</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\H2GO\H2GOGameMode.cpp">
+      <Filter>Source\H2GO</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\H2GOGameMode.h">
+      <Filter>Source\H2GO</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\H2GO\H2GOPlayerController.cpp">
+      <Filter>Source\H2GO</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\H2GOPlayerController.h">
+      <Filter>Source\H2GO</Filter>
+    </ClInclude>
+    <Filter Include="Source\H2GO\Variant_Combat">
+      <UniqueIdentifier>{6D8F049D-669A-30AE-9340-BB54EFCEDB4B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\H2GO\Variant_Combat\AnimNotify_CheckChargedAttack.cpp">
+      <Filter>Source\H2GO\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_Combat\AnimNotify_CheckChargedAttack.h">
+      <Filter>Source\H2GO\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\H2GO\Variant_Combat\AnimNotify_CheckCombo.cpp">
+      <Filter>Source\H2GO\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_Combat\AnimNotify_CheckCombo.h">
+      <Filter>Source\H2GO\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\H2GO\Variant_Combat\AnimNotify_DoAttackTrace.cpp">
+      <Filter>Source\H2GO\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_Combat\AnimNotify_DoAttackTrace.h">
+      <Filter>Source\H2GO\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\H2GO\Variant_Combat\CombatActivatable.cpp">
+      <Filter>Source\H2GO\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_Combat\CombatActivatable.h">
+      <Filter>Source\H2GO\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\H2GO\Variant_Combat\CombatActivationVolume.cpp">
+      <Filter>Source\H2GO\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_Combat\CombatActivationVolume.h">
+      <Filter>Source\H2GO\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\H2GO\Variant_Combat\CombatAttacker.cpp">
+      <Filter>Source\H2GO\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_Combat\CombatAttacker.h">
+      <Filter>Source\H2GO\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\H2GO\Variant_Combat\CombatCharacter.cpp">
+      <Filter>Source\H2GO\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_Combat\CombatCharacter.h">
+      <Filter>Source\H2GO\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\H2GO\Variant_Combat\CombatCheckpointVolume.cpp">
+      <Filter>Source\H2GO\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_Combat\CombatCheckpointVolume.h">
+      <Filter>Source\H2GO\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\H2GO\Variant_Combat\CombatDamageable.cpp">
+      <Filter>Source\H2GO\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_Combat\CombatDamageable.h">
+      <Filter>Source\H2GO\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\H2GO\Variant_Combat\CombatDamageableBox.cpp">
+      <Filter>Source\H2GO\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_Combat\CombatDamageableBox.h">
+      <Filter>Source\H2GO\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\H2GO\Variant_Combat\CombatDummy.cpp">
+      <Filter>Source\H2GO\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_Combat\CombatDummy.h">
+      <Filter>Source\H2GO\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\H2GO\Variant_Combat\CombatGameMode.cpp">
+      <Filter>Source\H2GO\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_Combat\CombatGameMode.h">
+      <Filter>Source\H2GO\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\H2GO\Variant_Combat\CombatLavaFloor.cpp">
+      <Filter>Source\H2GO\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_Combat\CombatLavaFloor.h">
+      <Filter>Source\H2GO\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\H2GO\Variant_Combat\CombatLifeBar.cpp">
+      <Filter>Source\H2GO\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_Combat\CombatLifeBar.h">
+      <Filter>Source\H2GO\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\H2GO\Variant_Combat\CombatPlayerController.cpp">
+      <Filter>Source\H2GO\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_Combat\CombatPlayerController.h">
+      <Filter>Source\H2GO\Variant_Combat</Filter>
+    </ClInclude>
+    <Filter Include="Source\H2GO\Variant_Combat\AI">
+      <UniqueIdentifier>{58B5B813-B5F2-3BA8-B7D5-880427A29718}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\H2GO\Variant_Combat\AI\CombatAIController.cpp">
+      <Filter>Source\H2GO\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_Combat\AI\CombatAIController.h">
+      <Filter>Source\H2GO\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\H2GO\Variant_Combat\AI\CombatEnemy.cpp">
+      <Filter>Source\H2GO\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_Combat\AI\CombatEnemy.h">
+      <Filter>Source\H2GO\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\H2GO\Variant_Combat\AI\CombatEnemySpawner.cpp">
+      <Filter>Source\H2GO\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_Combat\AI\CombatEnemySpawner.h">
+      <Filter>Source\H2GO\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\H2GO\Variant_Combat\AI\CombatStateTreeUtility.cpp">
+      <Filter>Source\H2GO\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_Combat\AI\CombatStateTreeUtility.h">
+      <Filter>Source\H2GO\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\H2GO\Variant_Combat\AI\EnvQueryContext_Player.cpp">
+      <Filter>Source\H2GO\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_Combat\AI\EnvQueryContext_Player.h">
+      <Filter>Source\H2GO\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\H2GO\Variant_Platforming">
+      <UniqueIdentifier>{7C3A4603-3F1D-3A1B-BBFB-C3F26329C82E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\H2GO\Variant_Platforming\AnimNotify_EndDash.cpp">
+      <Filter>Source\H2GO\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_Platforming\AnimNotify_EndDash.h">
+      <Filter>Source\H2GO\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\H2GO\Variant_Platforming\PlatformingCharacter.cpp">
+      <Filter>Source\H2GO\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_Platforming\PlatformingCharacter.h">
+      <Filter>Source\H2GO\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\H2GO\Variant_Platforming\PlatformingGameMode.cpp">
+      <Filter>Source\H2GO\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_Platforming\PlatformingGameMode.h">
+      <Filter>Source\H2GO\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\H2GO\Variant_Platforming\PlatformingPlayerController.cpp">
+      <Filter>Source\H2GO\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_Platforming\PlatformingPlayerController.h">
+      <Filter>Source\H2GO\Variant_Platforming</Filter>
+    </ClInclude>
+    <Filter Include="Source\H2GO\Variant_SideScrolling">
+      <UniqueIdentifier>{098D4CBA-0898-3136-9E30-5C78C7A9E863}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\H2GO\Variant_SideScrolling\SideScrollingCameraManager.cpp">
+      <Filter>Source\H2GO\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_SideScrolling\SideScrollingCameraManager.h">
+      <Filter>Source\H2GO\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\H2GO\Variant_SideScrolling\SideScrollingCharacter.cpp">
+      <Filter>Source\H2GO\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_SideScrolling\SideScrollingCharacter.h">
+      <Filter>Source\H2GO\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\H2GO\Variant_SideScrolling\SideScrollingCPP.Build.cs">
+      <Filter>Source\H2GO\Variant_SideScrolling</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\H2GO\Variant_SideScrolling\SideScrollingGameMode.cpp">
+      <Filter>Source\H2GO\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_SideScrolling\SideScrollingGameMode.h">
+      <Filter>Source\H2GO\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\H2GO\Variant_SideScrolling\SideScrollingInteractable.cpp">
+      <Filter>Source\H2GO\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_SideScrolling\SideScrollingInteractable.h">
+      <Filter>Source\H2GO\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\H2GO\Variant_SideScrolling\SideScrollingPlayerController.cpp">
+      <Filter>Source\H2GO\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_SideScrolling\SideScrollingPlayerController.h">
+      <Filter>Source\H2GO\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\H2GO\Variant_SideScrolling\SideScrollingUI.cpp">
+      <Filter>Source\H2GO\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_SideScrolling\SideScrollingUI.h">
+      <Filter>Source\H2GO\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <Filter Include="Source\H2GO\Variant_SideScrolling\AI">
+      <UniqueIdentifier>{4F5C4312-FFF0-3DBF-8BDA-4A13B3A21C1F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\H2GO\Variant_SideScrolling\AI\SideScrollingAIController.cpp">
+      <Filter>Source\H2GO\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_SideScrolling\AI\SideScrollingAIController.h">
+      <Filter>Source\H2GO\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\H2GO\Variant_SideScrolling\AI\SideScrollingNPC.cpp">
+      <Filter>Source\H2GO\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_SideScrolling\AI\SideScrollingNPC.h">
+      <Filter>Source\H2GO\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\H2GO\Variant_SideScrolling\AI\SideScrollingStateTreeUtility.cpp">
+      <Filter>Source\H2GO\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_SideScrolling\AI\SideScrollingStateTreeUtility.h">
+      <Filter>Source\H2GO\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\H2GO\Variant_SideScrolling\Gameplay">
+      <UniqueIdentifier>{9F7C70A5-C655-3BFC-BA7E-C913DEA19979}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\H2GO\Variant_SideScrolling\Gameplay\SideScrollingJumpPad.cpp">
+      <Filter>Source\H2GO\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_SideScrolling\Gameplay\SideScrollingJumpPad.h">
+      <Filter>Source\H2GO\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\H2GO\Variant_SideScrolling\Gameplay\SideScrollingMovingPlatform.cpp">
+      <Filter>Source\H2GO\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_SideScrolling\Gameplay\SideScrollingMovingPlatform.h">
+      <Filter>Source\H2GO\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\H2GO\Variant_SideScrolling\Gameplay\SideScrollingPickup.cpp">
+      <Filter>Source\H2GO\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_SideScrolling\Gameplay\SideScrollingPickup.h">
+      <Filter>Source\H2GO\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\H2GO\Variant_SideScrolling\Gameplay\SideScrollingSoftPlatform.cpp">
+      <Filter>Source\H2GO\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\H2GO\Variant_SideScrolling\Gameplay\SideScrollingSoftPlatform.h">
+      <Filter>Source\H2GO\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
