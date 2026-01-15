@@ -3,18 +3,6 @@
 	"EngineAssociation": "{8ED20392-43E6-183F-5EC1-4699DAF5790C}",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "H2GO",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine",
-				"AIModule",
-				"UMG"
-			]
-		}
-	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
@@ -22,10 +10,6 @@
 			"TargetAllowList": [
 				"Editor"
 			]
-		},
-		{
-			"Name": "StateTree",
-			"Enabled": true
 		},
 		{
 			"Name": "GameplayStateTree",
