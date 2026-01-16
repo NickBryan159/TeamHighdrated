@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Profiles/clc6900/source/repos/TeamHighdrated/H2GO/Content/Player/Blueprints/BP_BucketPawn.uasset",
+				"D:/Profiles/clc6900/source/repos/TeamHighdrated/H2GO/Content/Player/Blueprints/BP_BucketCharacter.uasset",
+				"D:/Profiles/clc6900/source/repos/TeamHighdrated/H2GO/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Profiles/clc6900/source/repos/TeamHighdrated/H2GO/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"D:/Profiles/clc6900/Documents/TeamHighdrated/H2GO/Content/Player/Blueprints/BP_BucketPawn.uasset",
 				"D:/Profiles/clc6900/Documents/TeamHighdrated/H2GO/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"D:/Profiles/clc6900/Documents/TeamHighdrated/H2GO/Content/Player/Blueprints/BP_BucketCharacter.uasset",
