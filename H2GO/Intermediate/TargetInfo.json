@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "H2GO",
+			"Path": "..\\Source\\H2GO.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "H2GOEditor",
+			"Path": "..\\Source\\H2GOEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
