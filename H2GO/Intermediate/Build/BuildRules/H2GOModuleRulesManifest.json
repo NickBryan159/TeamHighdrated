@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Github\\TeamHighdrated\\H2GO\\Source\\H2GO\\H2GO.Build.cs",
+		"D:\\Github\\TeamHighdrated\\H2GO\\Source\\H2GO.Target.cs",
+		"D:\\Github\\TeamHighdrated\\H2GO\\Source\\H2GOEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
