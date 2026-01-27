@@ -303,6 +303,7 @@
 /engine/vreditor/transformgizmo/translucenttransformgizmomaterial_inst
 /engine/vreditor/transformgizmo/uniformscalehandle
 /engine/vreditor/transformgizmo/xray
+/game/blueprints/bp_door
 /game/blueprints/bp_jumppad
 /game/blueprints/bp_sprinkler
 /game/blueprints/flowerinteractableblueprint
@@ -444,6 +445,7 @@
 /game/levelprototyping/materials/m_flatcol
 /game/levelprototyping/materials/m_prototypegrid
 /game/levelprototyping/materials/mat_blue
+/game/levelprototyping/materials/mat_doublesided
 /game/levelprototyping/materials/mat_red
 /game/levelprototyping/materials/mat_yellow
 /game/levelprototyping/materials/mf_procgrid
@@ -483,6 +485,7 @@
 /game/thirdperson/blueprints/bp_nicklevelgamemode
 /game/thirdperson/blueprints/bp_thirdpersoncharacter
 /game/thirdperson/blueprints/bp_thirdpersongamemode
+/game/thirdperson/lvl_dang
 /game/thirdperson/lvl_nickmesswiththisone
 /game/thirdperson/lvl_thirdperson
 /game/thirdperson/mi_thirdpersoncolway

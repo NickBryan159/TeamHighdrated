@@ -172,6 +172,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "C140B3314384E33C02B4BF844D320913B828793D",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MAT_DoubleSided"
+			]
+		},
+		{
 			"ShaderMapHash": "219ED03122D2C439E9A08453D6943590B3FC2A6E",
 			"Assets": [
 				"/Engine/EditorLandscapeResources/LandscapeLayerUsageMaterial"
@@ -345,6 +351,12 @@
 			"ShaderMapHash": "2E7F9D739ACF544EAB2507865AA56380B00FCC54",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9496277E3D2A999E1E9CC1BC761D147401BAD730",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
 			]
 		},
 		{
@@ -549,12 +561,6 @@
 			"ShaderMapHash": "60DBABCE70A1B3A5D2448F80010D2D47CA1390B8",
 			"Assets": [
 				"/Engine/EditorMaterials/Dataflow/DataflowTwoSidedVertexMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "83CC50D0C09F5FFE00B146FA2D6EABB1926954B0",
-			"Assets": [
-				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
 			]
 		},
 		{

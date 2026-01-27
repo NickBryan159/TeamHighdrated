@@ -56,6 +56,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "9E8D7A08BA066ACA502188D57BD117E7F105C153",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MAT_DoubleSided"
+			]
+		},
+		{
 			"ShaderMapHash": "999DEF0BB35022312342C4731F2D8E040340063F",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
@@ -162,6 +168,12 @@
 			"ShaderMapHash": "194FDD34A56380649E3F9123219207A8888C39B3",
 			"Assets": [
 				"/Game/LevelPrototyping/Meshes/dynamic_petal_color"
+			]
+		},
+		{
+			"ShaderMapHash": "54B671358A6962F4922BF446A24F6AC3731F3B12",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
 			]
 		},
 		{
@@ -587,12 +599,6 @@
 			"ShaderMapHash": "4134ABC2929D41A8F1CF1A6502630F7A60806466",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Blend"
-			]
-		},
-		{
-			"ShaderMapHash": "78CEA9C325E8ADC6C0EB37356AC3A3BDE1A141E9",
-			"Assets": [
-				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
 			]
 		},
 		{
