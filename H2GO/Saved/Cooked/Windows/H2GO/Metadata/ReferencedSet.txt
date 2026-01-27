@@ -304,6 +304,7 @@
 /engine/vreditor/transformgizmo/uniformscalehandle
 /engine/vreditor/transformgizmo/xray
 /game/blueprints/bp_jumppad
+/game/blueprints/bp_sprinkler
 /game/blueprints/flowerinteractableblueprint
 /game/blueprints/hovertextdisplay
 /game/blueprints/interactabledisplay
@@ -465,13 +466,19 @@
 /game/player/blueprints/bp_bucketpawn
 /game/player/blueprints/ns_waterable
 /game/player/blueprints/ns_waterpour
+/game/player/blueprints/ns_watersprinkler
 /game/texturesandmaterials/m_watercanguy
 /game/texturesandmaterials/t_watercanguy
 /game/thirdperson/blueprints/ai/bb_bee
+/game/thirdperson/blueprints/ai/bb_caterpillar
 /game/thirdperson/blueprints/ai/bp_beeai
 /game/thirdperson/blueprints/ai/bp_beeaicontroller
+/game/thirdperson/blueprints/ai/bp_caterpillarai
+/game/thirdperson/blueprints/ai/bp_caterpillaraicontroller
 /game/thirdperson/blueprints/ai/bt_bee
+/game/thirdperson/blueprints/ai/bt_caterpillar
 /game/thirdperson/blueprints/ai/bttask_beeattack
+/game/thirdperson/blueprints/ai/bttask_caterpillareat
 /game/thirdperson/blueprints/ai/bttask_roam
 /game/thirdperson/blueprints/bp_nicklevelgamemode
 /game/thirdperson/blueprints/bp_thirdpersoncharacter
