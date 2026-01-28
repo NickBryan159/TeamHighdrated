@@ -1,0 +1,63 @@
+############################
+# Unreal Engine
+############################
+
+**/Binaries/
+**/Intermediate/
+**/Saved/
+**/DerivedDataCache/
+
+# Plugin build outputs
+**/Plugins/**/Binaries/
+**/Plugins/**/Intermediate/
+
+# Build artifacts
+**/Build/
+
+# Keep PakBlacklist files
+!**/Build/**/PakBlacklist*.txt
+
+# Map built data (optional – usually safe to ignore)
+*_BuiltData.uasset
+
+
+############################
+# Visual Studio / IDE
+############################
+
+.vs/
+.vsconfig
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+
+############################
+# Compiled files
+############################
+
+*.obj
+*.o
+*.lo
+*.a
+*.lib
+*.dll
+*.exe
+*.app
+*.ipa
+*.so
+*.dylib
+
+
+############################
+# OS junk
+############################
+
+Thumbs.db
+.DS_Store
